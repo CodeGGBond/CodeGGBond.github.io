@@ -1,1 +1,1 @@
-var posts=["2023/09/02/关于VueRouter/","2023/09/01/关于pinia和vuex的简单应用/"];function toRandomPost(){pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);};
+var posts=["2023/09/02/关于VueRouter/","2023/09/05/webpack的基本用法/","2023/09/06/webpack的高级应用/","2023/09/01/关于pinia和vuex的简单应用/"];function toRandomPost(){pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);};
